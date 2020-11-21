@@ -1,4 +1,5 @@
 import React from "react";
+import "./index.css"
 
 
 function Navbar() {
@@ -18,7 +19,7 @@ function Navbar() {
                     <li className="nav-item">
             {/* <!-- Button trigger contact modal --> */}
                         <button type="button" className="btn btn-primary" data-toggle="modal" data-target="#contactModal">contact</button>
-                        <span class="sr-only">(current)</span>
+                        <span className="sr-only">(current)</span>
                     </li>
                 </ul>
                 </div>

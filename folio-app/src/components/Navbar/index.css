@@ -1,0 +1,36 @@
+/* navbar styling */
+.name-logo {
+    margin-left: 200px;
+    margin-right: 150px;
+    padding: 5px;
+    color:  darkseagreen;
+    max-width: 45%;
+    font-size: x-large;
+  }
+  
+  .name-logo:hover {
+    color: darkseagreen;
+  }
+  
+  .navbar-nav .nav-link {
+    color: darkseagreen;
+    max-width: 55%;
+    display: inline;
+  }
+  
+  #btn {
+    flex-direction: row;
+  }
+  
+  .btn.btn-primary {
+    background-color: transparent;
+    color:darkseagreen;
+    border: none;
+    font-size: large;
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .btn.btn-primary:hover {
+    border: solid 3px darkseagreen;
+  }

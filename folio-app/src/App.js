@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Modal from "./components/Modal";
+import Navbar from "./components/Navbar/Navbar";
+import Modal from "./components/Modal/Modal";
 import Hero from "./components/Hero/Hero";
-import Jumbo from "./components/Jumbo";
-import Projects from "./components/Projects";
-import Footer from "./components/Footer";
+import Jumbo from "./components/Jumbo/Jumbo";
+import Projects from "./components/Projects/Projects";
+import Footer from "./components/Footer/Footer";
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 

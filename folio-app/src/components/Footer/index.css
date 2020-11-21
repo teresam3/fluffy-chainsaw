@@ -1,0 +1,12 @@
+/* footer nav */
+.footer-nav {
+    background-color: darkseagreen; 
+    padding: 30px;
+    margin-top: 20px;
+    min-width: 100%;
+    margin: 0;
+  }
+  
+  a.nav-link {
+    color: white;
+  }

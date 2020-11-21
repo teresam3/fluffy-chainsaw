@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
 body {
   color:  darkseagreen;
   font-family: 'Poppins', sans-serif;
@@ -5,103 +7,6 @@ body {
   background-attachment: fixed; 
 }
 
-/* navbar styling */
-.name-logo {
-  margin-left: 200px;
-  margin-right: 150px;
-  padding: 5px;
-  color:  darkseagreen;
-  max-width: 45%;
-  font-size: x-large;
-}
-
-.name-logo:hover {
-  color: darkseagreen;
-}
-
-.navbar-nav .nav-link {
-  color: darkseagreen;
-  max-width: 55%;
-  display: inline;
-}
-
-#btn {
-  flex-direction: row;
-}
-
-.btn.btn-primary {
-  background-color: transparent;
-  color:darkseagreen;
-  border: none;
-  font-size: large;
-  padding: 5px;
-  margin: 5px;
-}
-
-.btn.btn-primary:hover {
-  border: solid 3px darkseagreen;
-}
-
-/* middle styling */
-#jumbotron {
-  margin-top: 45px;
-  border: 0px;
-  background-color: #ecdfec;
-  color: white;
-  padding-left: 50px;
-}
-
-/* work grid styling */
-.work-grid {
-  margin-top: 43px;
-  margin-bottom: 10px;
-}
-
-#work {
-  margin: 20px;
-}
-
-#work:hover {
-  border: solid 5px darkseagreen;
-}
-
-/* modal styling */
-.profile-pic {
-  border-radius: 50%;
-  float: left;
-  width: 300px;
-  padding: 10px;
-  margin: 10px;
-}
-
-.bio-text{ 
-  margin: 10px;
-  padding: 10px;
-}
-
-.about {
-  color: darkseagreen;
-}
-
-.btn.btn-secondary {
-  border: none;
-  background-color:darkseagreen;
-  color: white;
-  border-radius: 10px;
-}
-
-/* footer nav */
-.footer-nav {
-  background-color: darkseagreen; 
-  padding: 30px;
-  margin-top: 20px;
-  min-width: 100%;
-  margin: 0;
-}
-
-a.nav-link {
-  color: white;
-}
 
 /* media queries */
 
