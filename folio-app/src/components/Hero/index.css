@@ -1,26 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
 
 /* landing styling */
+.hero {
+  border: 0px;
+}
+
 .hero-image {
-    width: 1100px;
-    height: 575px;
-    padding: 0px;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 10px;
-    opacity: 100%;
-  }
-  
-  .landing {
-    position: relative;
-    color:  darkseagreen;
-  }
-  
-  .centered {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
- 
+  width: 1400px;
+  height: 585px;
+  border-radius: 10px;
+  position: relative;
+}
+
+
   

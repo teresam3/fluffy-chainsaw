@@ -2,7 +2,7 @@
 
 /* middle styling */
 .jumbotron {
-  background-color:thistle;
+  background-color:thistle !important; 
   margin-top: 45px;
   border: 0px;
   color: white;

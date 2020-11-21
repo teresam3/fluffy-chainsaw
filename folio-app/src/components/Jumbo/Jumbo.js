@@ -5,7 +5,7 @@ function Jumbo() {
     return (
         <div className="jumbotron">
             <div className="container-fluid">
-                <h3 className="display-4">i create. </h3>
+                <h3 className="display-4"> </h3>
             </div>
         </div>
     )

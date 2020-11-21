@@ -6,7 +6,7 @@ function Modal() {
         <div className="whole">
             <div className="modal fade" id="aboutModal" tabindex="-1" aria-labelledby="aboutModalLabel" aria-hidden="true">
                 <div className="modal-dialog modal-dialog-centered">
-                    <div className="modal-content about">
+                    <div className="modal-content">
                     <div className="modal-header">
                         <h5 className="modal-title" id="Bio">A little bit about myself</h5>
                             <button type="button" className="close" data-dismiss="modal" aria-label="Close">
@@ -15,17 +15,16 @@ function Modal() {
                     </div>
                     <div className="modal-body bio-text">
                     <div className="bio">
-                        <div>
+                        <div className="profile-pic">
                             <img className="profile-pic img-thumbnail" alt="Profile of Teresa Maldonado" src="./images/profile-pic.jpeg"/>
                         </div>
                         <div>
                             <p>Hello, I am Teresa! I am web developer based in Los Angeles. I have only recently starting learning web development and will finish the UCLA 
                         Full-Stack Flex Coding Bootcamp in December 2020. Additionally, I have a Bachelor's degree in Politcal Science from UCLA and have customer
-                        service experience both through retail and e-commerce. <br/> My goal with web development is to find new and novel ways to improve user interactions
-                        to create a more personal and captivating experience. I believe to best achieve this is to collaborate and work with people to gain a better
-                        with different areas of expertise in order to gain a well-rounded site. A web developer depends upon these collaboration and clean, detailed code 
-                        in order to create an application that is both aesthetically pleasing and an easy site to navigate for a wide variety of people. <br/> Apart 
-                        from coding, I like to learn other medium of express my creativity, read books, and watch new and interesting tv shows. 
+                        service experience both through retail and e-commerce. <br/> My goal with web development is to find new and novel ways to improve user interactions and
+                        to create a more personal and captivating experience for the user. I believe the best way to achieve this is through collaboration and testing. A web 
+                        developer depends upon collaboration and clean, detailed code in order to create an application that is both aesthetically pleasing and easy to navigate 
+                        for a wide variety of people. <br/> Apart from coding, I like to read books, play with my dog - Bean - and watch new and interesting tv shows. 
                             </p>
                         </div>
                     </div>
@@ -34,7 +33,7 @@ function Modal() {
                 </div>
             </div>
 {/* <!-- Contact Modal --> */}
-            <div className="modal fade contact" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+            <div className="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
                 <div className="modal-dialog modal-dialog-centered">
                     <div className="modal-content">
                         <div className="modal-header">

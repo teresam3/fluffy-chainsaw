@@ -5,6 +5,7 @@
 
 .whole {
   font-family: 'Poppins', sans-serif;
+  color: darkseagreen;
 }
 
 .profile-pic {
@@ -20,17 +21,9 @@
   padding: 10px;
 }
 
-.about {
-  color: darkseagreen;
-}
-
 .btn.btn-secondary {
   border: none;
   background-color:darkseagreen;
   color: white;
   border-radius: 10px;
-}
-
-.contact {
-  color: darkseagreen
 }
