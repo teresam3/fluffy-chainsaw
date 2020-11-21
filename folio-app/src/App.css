@@ -42,37 +42,6 @@ body {
   border: solid 3px darkseagreen;
 }
 
-/* landing styling */
-.hero-image {
-  width: 1100px;
-  height: 575px;
-  padding: 0px;
-  margin-left: 150px;
-  margin-right: 150px;
-  margin-bottom: 10px;
-  opacity: 100%;
-}
-
-.landing {
-  position: relative;
-  color:  darkseagreen;
-}
-
-.centered {
-  position: absolute;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-h4 {
-  margin-top: 80px;
-}
-
-.intro {
-  font-size: medium;
-}
-
 /* middle styling */
 #jumbotron {
   margin-top: 45px;
