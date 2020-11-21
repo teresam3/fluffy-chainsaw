@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
 /* footer nav */
 .footer-nav {
     background-color: darkseagreen; 
@@ -5,8 +7,7 @@
     margin-top: 20px;
     min-width: 100%;
     margin: 0;
-  }
-  
-  a.nav-link {
+    font-family: 'Poppins', sans-serif;
     color: white;
   }
+  

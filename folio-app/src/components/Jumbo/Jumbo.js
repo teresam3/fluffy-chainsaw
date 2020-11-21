@@ -4,9 +4,8 @@ import "./index.css";
 function Jumbo() {
     return (
         <div>
-            <div className="container-fluid">
+            <div className="container-fluid jumbotron">
                 <h3 className="display-4">i create. </h3>
-                <p className="lead"></p>
             </div>
         </div>
     )

@@ -1,4 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
 /* navbar styling */
+
+.navbar {
+  font-family: 'Poppins', sans-serif;
+}
+
 .name-logo {
     margin-left: 200px;
     margin-right: 150px;
