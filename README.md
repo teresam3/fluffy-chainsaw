@@ -18,4 +18,4 @@ React.js portfolio
 
 ## Links
     Github repo:  https://github.com/teresam3/fluffy-chainsaw
-    Deployed link:
+    Deployed link: teresamaldonado.com
