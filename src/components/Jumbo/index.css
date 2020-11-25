@@ -4,6 +4,7 @@
 .jumbotron {
   background-color:thistle !important; 
   margin-top: 45px;
+  height: 250px;
   border: 0px;
   color: white;
   padding-left: 50px;

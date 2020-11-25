@@ -8,9 +8,24 @@
 .hero-image {
   width: 1400px;
   height: 700px;
-  border-radius: 10px;
   position: relative;
 }
 
+.onHover {
+  position: relative;
+}
+
+.moreBtn {
+  text-align: center;
+  background-color: transparent;
+  border: none;
+  color: darkseagreen;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  font-family: 'Poppins', sans-serif;
+}
 
   

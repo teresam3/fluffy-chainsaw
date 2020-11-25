@@ -7,10 +7,10 @@ function OnHover() {
 
   return (
     <div className="onHover">
-      <button
+      <button className="moreBtn"
         onMouseEnter={() => setIsShown(true)}
         onMouseLeave={() => setIsShown(false)}>
-            Hover here!
+            Scroll down to see my work!
       </button>
       {
       isShown && (
