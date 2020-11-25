@@ -16,7 +16,7 @@ function Modal() {
                     <div className="modal-body bio-text">
                     <div className="bio">
                         <div className="profile-pic">
-                            <img className="profile-pic img-thumbnail" alt="Profile of Teresa Maldonado" src="./images/profile-pic.jpeg"/>
+                            <img className="profile-pic" alt="Profile of Teresa Maldonado" src="./images/profile-pic.jpeg"/>
                         </div>
                         <div>
                             <p>Hello, I am Teresa! I am web developer based in Los Angeles. I have only recently starting learning web development and will finish the UCLA 

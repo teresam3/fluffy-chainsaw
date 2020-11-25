@@ -11,9 +11,9 @@
 .profile-pic {
   border-radius: 50%;
   float: left;
-  width: 300px;
-  padding: 10px;
-  margin: 10px;
+  width: 200px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .bio-text{ 
