@@ -11,7 +11,37 @@
   font-family: 'Poppins', sans-serif;
   }
 
-img {
-  text-decoration: none;
-  display: inline-block !important;
+.img {
+  list-style-type: none;
+  display: inline-flex;
+  padding-left: 250px;
+}
+
+.html {
+  padding: 20px;
+}
+
+.java {
+  padding: 30px;
+}
+
+.js {
+  padding: 15px;
+}
+
+.mysql {
+  padding: 10px;
+}
+
+.post {
+  padding: 20px;
+}
+
+.python {
+  padding: 12px;
+  padding-top: 25px;
+}
+
+.react {
+  padding: 10px;
 }
