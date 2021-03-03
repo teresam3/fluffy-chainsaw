@@ -1,4 +1,3 @@
-# fluffy-chainsaw
 React.js portfolio
 
 ## What the project does
@@ -17,5 +16,5 @@ React.js portfolio
     Teresa Maldonado - @teresam3
 
 ## Links
-    Github repo:  https://github.com/teresam3/fluffy-chainsaw
-    Deployed link: teresamaldonado.com
+    Github repo:  https://github.com/teresam3/teresa-maldonado
+    Deployed link: https://teresam3.github.io/teresa-maldonado/
