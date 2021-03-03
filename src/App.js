@@ -15,7 +15,7 @@ function App() {
       <Navbar />
       <Modal/>
       <Hero />
-      <OnHover />
+      {/* <OnHover /> */}
       <Jumbo />
       <Projects />
       <Footer />
