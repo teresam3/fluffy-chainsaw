@@ -13,7 +13,7 @@ function App() {
   return (
     <div> 
       <Navbar />
-      <Modal/>
+      {/* <Modal/> */}
       <Hero />
       {/* <OnHover /> */}
       <Jumbo />

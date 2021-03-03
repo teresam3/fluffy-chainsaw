@@ -3,17 +3,21 @@
 /* navbar styling */
 .navbar {
   font-family: 'Poppins', sans-serif;
+  font-size: xx-large;
+  color: darkseagreen;
 }
 
-.name-logo {
-  margin-left: 200px;
-  margin-right: 150px;
+.navbar.name-logo {
+  margin-left: 600px;
+  margin-right: 300px;
   padding: 5px;
   max-width: 45%;
   color: darkseagreen;
-  font-size: x-large;
 }
-  
+
+.name-logo:link {
+  text-decoration: none;
+}
 .name-logo:hover {
   color: darkseagreen;
 }
@@ -23,7 +27,7 @@
   display: inline;
 }
 
-#btn {
+/* #btn {
   flex-direction: row;
 }
 
@@ -40,4 +44,4 @@
   border: solid 3px darkseagreen;
   background-color: transparent;
   color:darkseagreen;
-}
+} */
