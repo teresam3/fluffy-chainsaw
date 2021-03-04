@@ -1,5 +1,7 @@
 React.js portfolio
 
+![flat illustration of me](https://github.com/teresam3/teresa-maldonado/blob/master/Teresa-Illustration.png?raw=true)
+
 ## What the project does
     This is a React.js portfolio highlighting my achievements so far in web development and design. 
 
