@@ -11,16 +11,16 @@ function Footer() {
                 </li>
             <div className="w-100"></div>
                 <li className="nav-item">
-                    <a className="nav-link" href="https://www.linkedin.com/in/teresa-maldonado-917340181/"><img alt="LinkedIn" src="./images/in.png"/></a>
+                    <a className="nav-link" href="https://www.linkedin.com/in/teresa-maldonado-917340181/"><img alt="LinkedIn" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/in.png?raw=true"/></a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="https://github.com/teresam3"><img alt="Github" src="./images/git.png"/></a>
+                    <a className="nav-link" href="https://github.com/teresam3"><img alt="Github" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/git.png?raw=trueg"/></a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="https://mail.google.com/"><img alt="email" src="./images/mail.png"/></a>
+                    <a className="nav-link" href="https://mail.google.com/"><img alt="email" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/mail.png?raw=true"/></a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="https://docs.google.com/document/d/1YmWgFEVT28W020Ey-c6PX-TaYXxzZ82VPxcn8p66pQk/edit?usp=sharing"download><img className="resume" alt="resume" src="./images/icons8-download-24.png"/></a>
+                    <a className="nav-link" href="https://docs.google.com/document/d/1YmWgFEVT28W020Ey-c6PX-TaYXxzZ82VPxcn8p66pQk/edit?usp=sharing"download><img className="resume" alt="resume" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/icons8-download-24.png?raw=true"/></a>
                 </li>
             </ul>
             </div>
