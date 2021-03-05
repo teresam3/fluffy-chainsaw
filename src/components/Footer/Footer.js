@@ -20,7 +20,7 @@ function Footer() {
                     <a className="nav-link" href="https://mail.google.com/"><img alt="email" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/mail.png?raw=true"/></a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="https://docs.google.com/document/d/1YmWgFEVT28W020Ey-c6PX-TaYXxzZ82VPxcn8p66pQk/edit?usp=sharing"download><img className="resume" alt="resume" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/icons8-download-24.png?raw=true"/></a>
+                    <a className="nav-link" href="https://docs.google.com/document/d/e/2PACX-1vR9vjjXxZbfxGFXaYnziHBsuR1TrFGwaD2U6YP4c9sRupmu8gcnNnGrXGRa5j09uNt40qNhXagMxp7U/pub" download><img className="resume" alt="resume" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/icons8-download-24.png?raw=true"/></a>
                 </li>
             </ul>
             </div>
