@@ -3,14 +3,43 @@
 /* navbar styling */
 .navbar {
   font-family: 'Poppins', sans-serif; 
+  background: none;
 }
 
+.list {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+/* the about button */
+.about.btn-primary  {
+  float: right;
+  background-color: transparent;
+  color: mediumslateblue;
+  border-color: transparent;
+  margin-top: 10px;
+}
+
+.about.btn-primary:hover {
+  color:mediumslateblue;
+  background-color: transparent;
+  border: 2px solid mediumslateblue;
+}
+
+.about.btn-primary::after {
+  background-color: transparent;
+  color: mediumslateblue;
+  border-color: transparent;
+}
+
+/* the name  */
 a.navbar-brand.name-logo:hover {
-  color:darkseagreen;
+  color:mediumslateblue;
   font-size: xx-large;
 }
 
 a.navbar-brand.name-logo{
-  color:darkseagreen;
+  color: mediumslateblue;
   font-size: xx-large;
+  padding-left: 20px;
 }

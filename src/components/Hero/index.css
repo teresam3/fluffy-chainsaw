@@ -1,16 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
 
 /* landing styling */
+
 .hero {
-  border: 0px;
+  max-width: 100%;
 }
 
 .hero-image {
-  width: 1400px;
-  height: 700px;
-  position: relative;
+  max-width: 100%;
+  height: auto;
+  z-index: 0;
 }
 
+/* the on hover styling */
 .onHover {
   position: relative;
 }

@@ -5,26 +5,27 @@ import "./index.css"
 function Modal() {
     return (
         <div className="whole">
-            <div className="modal-dialog modal-dialog-centered" id="buzzkillModal">
-                <div className="modal fade" tabindex="-1" aria-labelledby="buzzkillModalLabel" aria-hidden="true">
-                    <div className="modal-dialog">
-                        <div className="modal-content">
-                            <div className="modal-header">
-                                <h5 className="modal-title" id="buzzkillModalLabel">About Buzzkill</h5>
-                                <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                            </div>
-                            <div className="modal-body">
-                                Buzzkill is local neighborhood app
-                            </div>
-                            <div className="modal-footer">
-                                <button type="button" className="btn btn-primary">Close</button>
-                            </div>
+             <div className="modal fade" id="aboutModal" tabindex="-1" aria-labelledby="aboutModalLabel" aria-hidden="true">
+                <div className="modal-dialog modal-dialog-centered">
+                    <div className="modal-content">
+                        <div className="modal-header">
+                            <h5 className="modal-title">Get to know me</h5>
+                            <button type="button" className="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div className="modal-body">
+                            <p>Hello</p>
+                        </div>
+                        <div className="modal-footer">
+                            <button type="button" className="btn btn-secondary" data-dismiss="modal">Submit</button>
                         </div>
                     </div>
                 </div>
             </div>
+            
 {/* <!-- Contact Modal --> */}
-            {/* <div className="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+            <div className="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
                 <div className="modal-dialog modal-dialog-centered">
                     <div className="modal-content">
                         <div className="modal-header">
@@ -61,7 +62,7 @@ function Modal() {
                         </div>
                     </div>
                 </div>
-            </div> */}
+            </div>
         </div>
     )
 };
