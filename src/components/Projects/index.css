@@ -11,4 +11,12 @@
   #work:hover {
     border: solid 5px darkseagreen;
   }
-  
+
+  .ul.list {
+    list-style-type: none;
+    display: inline-flex;
+  }
+
+  .modal {
+    background-color: transparent;
+  }
