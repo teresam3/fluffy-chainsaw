@@ -40,7 +40,7 @@ function Prodal() {
                             <p> A simple application that takes restaurant-goers information in order to put reserve their and 
                             move them onto the waiting list then onto their table when ready. Technologies used are: html, css and javascript. 
                             <br></br>
-                            <a href=""> Here</a> is the deployed website.
+                            <a href="#"> Here</a> is the deployed website.
                             <a href="https://github.com/csbryant/HotRestaurant">Here</a> is the github.</p>
                        </div>
                     </div>
@@ -61,7 +61,7 @@ function Prodal() {
                             <p>My portfolio showcasing all the work I have done in the field of web development as well as my personality and tastes that is shown on the web design. <br></br> Technologies used are : react.js, html, css, javascript, bootstrap. 
                             <br></br>
                             <a href="https://teresam3.github.io/teresa-maldonado/">Here</a> is the deployed website. 
-                            <a href="https://github.com/teresam3/teresa-maldonado">Here</a>is the github repository.</p>
+                            <a href="https://github.com/teresam3/teresa-maldonado">Here</a> is the github repository.</p>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@ function Prodal() {
                             <br></br>
                             <p>A mock e-commerce website of a clothing bakery using Shopify as the point of sale application. A customer is able to add an item onto their cart and then consequently checkout and pay for their items. Technologies used are: Shopify, react.js, html, css, javascript. This was a personal project in order to become acquainted with the shopify APIs and learn how to use their database.
                             <br></br>
-                            <a href="">Here</a> is the deployed website. 
+                            <a href="#">Here</a> is the deployed website. 
                             <a href="https://github.com/teresam3/wits-end">Here</a> is the github repository.</p>
                         </div>
                     </div>
