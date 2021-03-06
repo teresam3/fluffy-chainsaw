@@ -15,11 +15,14 @@ function Modal() {
                             </button>
                         </div>
                         <div className="modal-body">
-                            <p>Hello</p>
+                            <img className="profile-pic" alt="Profile pic" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/profile-pic.jpeg?raw=true"/>
+                            <p><br/>Hello! I’m a software developer and UI/UX designer with a passion for creating customer experiences that are innovative, exciting and personal. I believe in the importance of knowing your audience and who will consequently use your application and using that knowledge when writing code </p>
+                            <p><br/>I like to describe myself as a community builder, both in creating products that connect people online, and also in communicating effectively with others in the work environment.</p> 
+                            <p><br/>Most notably, I work best when I create. Working in software development is a joy to me, and I believe that my passion and drive for accomplishing tasks creates an outcome that always exceeds expectations. Proficient in HTML/CSS, Javascript, React, Mongo, MYSQL, Heroku, Git workflow, Jquery, and Node. Take a look at my <a href="https://docs.google.com/document/d/e/2PACX-1vR9vjjXxZbfxGFXaYnziHBsuR1TrFGwaD2U6YP4c9sRupmu8gcnNnGrXGRa5j09uNt40qNhXagMxp7U/pub">resume.</a> </p>
                         </div>
-                        <div className="modal-footer">
-                            <button type="button" className="btn btn-secondary" data-dismiss="modal">Submit</button>
-                        </div>
+                        {/* <div className="modal-footer">
+                            <button type="button" className="btn btn-secondary" data-dismiss="modal">Ha</button>
+                        </div> */}
                     </div>
                 </div>
             </div>
