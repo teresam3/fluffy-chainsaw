@@ -15,31 +15,31 @@
 .about.btn-primary  {
   float: right;
   background-color: transparent;
-  color: mediumslateblue;
+  color: #7B68EE;
   border-color: transparent;
   margin-top: 10px;
 }
 
 .about.btn-primary:hover {
-  color:mediumslateblue;
+  color:#7B68EE;
   background-color: transparent;
-  border: 2px solid mediumslateblue;
+  border: 2px solid #7B68EE;
 }
 
 .about.btn-primary::after {
   background-color: transparent;
-  color: mediumslateblue;
+  color: #7B68EE;
   border-color: transparent;
 }
 
 /* the name  */
 a.navbar-brand.name-logo:hover {
-  color:mediumslateblue;
+  color:#7B68EE;
   font-size: xx-large;
 }
 
 a.navbar-brand.name-logo{
-  color: mediumslateblue;
+  color: #7B68EE;
   font-size: xx-large;
   padding-left: 20px;
 }
