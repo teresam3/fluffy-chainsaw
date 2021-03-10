@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/teresa-maldonado/static/css/main.463a3133.chunk.css",
-    "main.js": "/teresa-maldonado/static/js/main.f4f037b2.chunk.js",
-    "main.js.map": "/teresa-maldonado/static/js/main.f4f037b2.chunk.js.map",
+    "main.css": "/teresa-maldonado/static/css/main.e4e43a5f.chunk.css",
+    "main.js": "/teresa-maldonado/static/js/main.93616321.chunk.js",
+    "main.js.map": "/teresa-maldonado/static/js/main.93616321.chunk.js.map",
     "runtime-main.js": "/teresa-maldonado/static/js/runtime-main.51d061a6.js",
     "runtime-main.js.map": "/teresa-maldonado/static/js/runtime-main.51d061a6.js.map",
     "static/css/2.1a02f21c.chunk.css": "/teresa-maldonado/static/css/2.1a02f21c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.375efee8.chunk.js.map": "/teresa-maldonado/static/js/3.375efee8.chunk.js.map",
     "index.html": "/teresa-maldonado/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/teresa-maldonado/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.463a3133.chunk.css.map": "/teresa-maldonado/static/css/main.463a3133.chunk.css.map",
+    "static/css/main.e4e43a5f.chunk.css.map": "/teresa-maldonado/static/css/main.e4e43a5f.chunk.css.map",
     "static/js/2.af4cd585.chunk.js.LICENSE.txt": "/teresa-maldonado/static/js/2.af4cd585.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.51d061a6.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.af4cd585.chunk.js",
-    "static/css/main.463a3133.chunk.css",
-    "static/js/main.f4f037b2.chunk.js"
+    "static/css/main.e4e43a5f.chunk.css",
+    "static/js/main.93616321.chunk.js"
   ]
 }
