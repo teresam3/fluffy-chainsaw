@@ -5,7 +5,7 @@ import "./index.css";
 function Projects() {
     return (
         <div>
-            <div>
+            <div className="projects">
                 <div className="row">
                      <ul className="list">
                         <li>

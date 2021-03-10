@@ -16,8 +16,12 @@ function Navbar() {
                             <a className="navbar-brand name-logo justify-content-center" href="./index.html"><img alt="teresa maldonado" src="https://github.com/teresam3/teresa-maldonado/blob/main/public/images/TeresaMaldonado2.png?raw=true"/></a>
                         </h1>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <button type="button" className="btn btn-primary about" data-toggle="modal" data-target="#contactModal">contact</button>
+                        <span className="sr-only">(current)</span>
+                    </li>  */}
+                    <li className="nav-item">
+                        <button type="button" className="btn btn-primary about" data-toggle="modal" data-target="#projModal">projects</button>
                         <span className="sr-only">(current)</span>
                     </li> 
                 </ul>
